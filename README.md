@@ -34,10 +34,10 @@ Whether you're a seasoned investor or a curious beginner, **Capital Agent** brin
 
 ## 🧑‍🤝‍🧑 Team Capital Agents
 
-- Varsha (AI + ML Modeling)
-- Harshitha (Data Processing + Risk Classification)
-- Nanddanaa (Sentiment Analysis + Integration)
-- Chinmayi (Conversational Design + Gemini API + UI Concepts)
+- Varsha 
+- Harshitha 
+- Nanddanaa 
+- Chinmayi
 
 ---
 
