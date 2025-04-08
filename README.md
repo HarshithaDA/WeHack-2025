@@ -52,7 +52,7 @@ Whether you're a seasoned investor or a curious beginner, **Capital Agent** brin
 - 📈 **Stock Sentiment Insights**  
   Analyze past stock trends + news-based sentiment to:
   - Predict short/long-term performance  
-  - Warn users about risky behavior  
+  - Warn users about risky investments  
   - Recommend diversified options
 
 - 💬 **Conversational AI Advisor**  
@@ -67,7 +67,7 @@ Whether you're a seasoned investor or a curious beginner, **Capital Agent** brin
 
 > 📌 **Self-Generated Datasets**
 - Property data simulated with sensor values + transaction logs
-- Stock data scraped and sentiment-scored from mock news headlines
+- Stock data scraped from Yahoo Finance and sentiment-scored from current market news 
 
 ---
 
